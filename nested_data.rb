@@ -3,8 +3,8 @@
 # CREATE A HASH 
 
 hello {
-  eEmi => ["Come on Elieen", "Pitiful Children", "Dancing Quuen"]
-  :Amira => ["Mine", "Call out my name", "Bartier"]
+  :emi => ["Come on Elieen", "Pitiful Children", "Dancing Quuen"]
+  :amira => ["Mine", "Call out my name", "Bartier"]
   :Alyssa => ["fav song 1", "fav song 2", "fav song 3"]
 }
 
