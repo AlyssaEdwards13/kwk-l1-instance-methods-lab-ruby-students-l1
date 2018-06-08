@@ -15,4 +15,6 @@
    :shoes => ["running shoes", "flip flops", "heels", "sandles"]
  }
  
- puts closet_2[:tops]
+ puts closet_2[:tops][0]
+ puts closet_2[:footwear]
+ 
