@@ -5,7 +5,8 @@
 hello {
   :emi => ["Come on Elieen", "Pitiful Children", "Dancing Quuen"]
   :amira => ["Mine", "Call out my name", "Bartier"]
-  :Alyssa => ["fav song 1", "fav song 2", "fav song 3"]
+  :alyssa => ["Dont Threaten me with a good time", "Vacation", "Love Lockdown"]
 }
 
-puts hello [Emi]
+puts hello [:emi][1]
+puts hello [:amira][0]
